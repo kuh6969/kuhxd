@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "8f8bdc6fcbbd"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "limitCount": 30,
+    "limitGame": 69
+  },
+  "exif": {
+    "packname": "KuhXD",
+    "author": "IG : @ramadhankukuh"
+  },
+  "owner": [
+    "12816245470"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by Kukuh Ramadhan"
+}
